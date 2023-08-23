@@ -5,12 +5,12 @@
   ## Table-of-Contents
 
   * [Description](#description)
-  * [Questions](#questions)
   * [Screenshots](#screenshots)
+  * [Questions](#questions)
   
   ## [Description](#table-of-contents)
 
-  It displays a city's weather information
+  It displays a city's weather information whenenever a user enter a city in the search bar
 
   ## [Screenshots](#table-of-contents)
 
